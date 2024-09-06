@@ -1,0 +1,13 @@
+form input {
+  font-size: 18px;
+  font-weight: 500;
+  font-family: cursive;
+}
+
+input[type="checkbox"]:checked {
+  accent-color: blueviolet;
+}
+
+.containerSmall {
+  box-shadow: 0.01rem 0.05rem 1rem 0.2rem #E1E1E1;
+}
